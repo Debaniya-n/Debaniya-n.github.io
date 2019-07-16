@@ -5,7 +5,7 @@
 #wb_main > .wb_cont_bg { background: transparent none repeat center top; background-size: auto auto; }
 #wb_footer { height: 97px; }
 #wb_footer > .wb_cont_bg { background: transparent none repeat left top; background-size: auto auto; }
-body { background: #000000 url("../f0875ea4c795dab39c5403ef1749e9c0.png") no-repeat scroll center top; background-size: contain; }
+body { background: #000000 url("..f0875ea4c795dab39c5403ef1749e9c0.png") no-repeat scroll center top; background-size: contain; }
 .wb_sbg { background: transparent none repeat-x left top; }
 body, .wb_sbg { min-width: 1200px; min-height: 1098px; }
 .wb_cont_inner { width: 1200px; }

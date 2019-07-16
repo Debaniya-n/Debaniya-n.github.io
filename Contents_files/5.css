@@ -5,7 +5,7 @@
 #wb_main > .wb_cont_bg { background: transparent none repeat center top; background-size: auto auto; }
 #wb_footer { height: 90px; }
 #wb_footer > .wb_cont_bg { background: transparent none repeat left top; background-size: auto auto; }
-body { background: #000000 url("../gallery_gen/daae354df14ccc290ae56233805ed625.png") repeat scroll center top; background-size: cover; }
+body { background: #000000 url("https://debaniya-n.github.io/Contents_files/daae354df14ccc290ae56233805ed625.png") repeat scroll center top; background-size: cover; }
 .wb_sbg { background: transparent none repeat-x left top; }
 body, .wb_sbg { min-width: 1200px; min-height: 1581px; }
 .wb_cont_inner { width: 1200px; }

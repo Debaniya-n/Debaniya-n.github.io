@@ -139,7 +139,7 @@ body{
 
 /** Nyomot dari malasngoding.com karena saya malas ngoding :v -deba **/
 .slider { 
-	border: 10px solid #efefef; 
+	border: 0px solid #efefef; 
 	position: relative; 
 	overflow: hidden; 
 	background: #efefef;
@@ -159,7 +159,7 @@ body{
  
 .slidercontents { 
 	position: absolute; 
-	width:3900px;  
+	width:2820px;  
  
 	/*pengaturan durasi lama tampil gambar bisa di atur di bawah ini*/
 	animation-name:slider;
@@ -225,10 +225,10 @@ body{
 		opacity: 0; 
 	}     
 	25% {
-		left: -768px; opacity: 1; 
+		left: -940px; opacity: 1; 
 	}       
 	45% {
-		left: -768px; opacity: 1; 
+		left: -940px; opacity: 1; 
 	}     
 	46% {
 		opacity: 0; 
@@ -237,10 +237,10 @@ body{
 		opacity: 0; 
 	}     
 	50% {
-		left: -1536px; opacity: 1; 
+		left: -1880px; opacity: 1; 
 	}     
 	70% {
-		left: -1536px; opacity: 1; 
+		left: -1880px; opacity: 1; 
 	}     
 	72% {
 		opacity: 0; 
@@ -249,13 +249,13 @@ body{
 		opacity: 0; 
 	}    
 	75% {
-		left: -2304px; opacity: 1; 
+		left: -2820px; opacity: 1; 
 	}   	
 	95% {
-		left: -2304px; opacity: 1; 
+		left: -2820px; opacity: 1; 
 	}   	
 	97% { 
-		left: -2304px; opacity: 0;
+		left: -2820px; opacity: 0;
 	}   	
 	100% {
 		left: 0; opacity: 0; 
@@ -279,10 +279,10 @@ body{
 		opacity: 0; 
 	}     
 	25% {
-		left: -768px; opacity: 1; 
+		left: -940px; opacity: 1; 
 	}       
 	45% {
-		left: -768px; opacity: 1; 
+		left: -940px; opacity: 1; 
 	}     
 	46% {
 		opacity: 0; 
@@ -291,10 +291,10 @@ body{
 		opacity: 0; 
 	}     
 	50% {
-		left: -1536px; opacity: 1; 
+		left: -1880px; opacity: 1; 
 	}     
 	70% {
-		left: -1536px; opacity: 1; 
+		left: -1880px; opacity: 1; 
 	}     
 	72% {
 		opacity: 0; 
@@ -303,13 +303,13 @@ body{
 		opacity: 0; 
 	}    
 	75% {
-		left: -2304px; opacity: 1; 
+		left: -2820px; opacity: 1; 
 	}   	
 	95% {
-		left: -2304px; opacity: 1; 
+		left: -2820px; opacity: 1; 
 	}   	
 	97% { 
-		left: -2304px; opacity: 0;
+		left: -2820px; opacity: 0;
 	}   	
 	100% {
 		left: 0; opacity: 0; 
@@ -334,10 +334,10 @@ body{
 		opacity: 0; 
 	}     
 	25% {
-		left: -768px; opacity: 1; 
+		left: -940px; opacity: 1; 
 	}     
 	45% {
-		left: -768px; opacity: 1; 
+		left: -940px; opacity: 1; 
 	}     
 	46% {
 		opacity: 0; 
@@ -346,10 +346,10 @@ body{
 		opacity: 0; 
 	}     
 	50% {
-		left: -1536px; opacity: 1; 
+		left: -1880px; opacity: 1; 
 	}     
 	70% {
-		left: -1536px; opacity: 1; 
+		left: -1880px; opacity: 1; 
 	}     
 	72% {
 		opacity: 0; 
@@ -358,13 +358,13 @@ body{
 		opacity: 0; 
 	}    
 	75% {
-		left: -2304px; opacity: 1; 
+		left: -2820px; opacity: 1; 
 	}   	
 	95% {
-		left: -2304px; opacity: 1; 
+		left: -2820px; opacity: 1; 
 	}   	
 	97% { 
-		left: -2304px; opacity: 0; 
+		left: -2820px; opacity: 0; 
 	} 
  
 	100% {

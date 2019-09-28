@@ -1,1 +1,14 @@
-body {background-color: rgb(138, 207, 132)}
+body {
+    background-color: rgb(138, 207, 132);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.container{
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.header{
+    text-align: center;
+    background-color: gray;
+}

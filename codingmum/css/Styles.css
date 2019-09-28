@@ -1,3 +1,6 @@
+
+
+
 body {
     background-color: rgb(138, 207, 132);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
@@ -9,6 +12,47 @@ body {
 }
 
 .header{
+    padding: 20px 0px 20px 0px;
     text-align: center;
     background-color: gray;
+    font-family: 'UD Digi Kyokasho NK-B'
+}
+
+.menu ul{
+    text-align: center;
+    background-color: aquamarine;
+    margin: 0px;
+    padding: 10px 0px 10px 0px
+}
+
+.menu li{
+    display: inline;
+    margin: 20px;
+}
+
+.menu li a{
+    color: black
+}
+
+.menu li a:hover{
+    color: green
+}
+
+.contents{
+    background-color: wheat;
+    border: 2px solid grey;
+    border-radius: 4px;
+    padding: 20px 0;
+    text-align: center
+}
+
+.spotlight{
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 0;
+    padding: 20px 0;
+}
+
+.footer{
+    background-color: grey
 }

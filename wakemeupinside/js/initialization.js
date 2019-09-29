@@ -1,5 +1,7 @@
 $(document).ready(function(){
     $('.carousel').slick({
-      setting-name: setting-value
+      autoplay: 1,
+      dots: true
     });
+    $('.single-item').slick();
   });

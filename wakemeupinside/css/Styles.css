@@ -101,6 +101,7 @@ body{
     text-align: left
 }
 
+
 .mrgn{
 	margin-left:15px
 }
@@ -154,6 +155,11 @@ body{
 .socials li a:hover{
     color:#8ce967
 }
+
+/** nyerah ku sama ini
+a.twitter-timeline {
+	font-family: "UD Digi Kyokasho NK-B"
+  } **/
 
 /** Nyomot dari malasngoding.com karena saya malas ngoding :v -deba **/
 /** eh akhirnya gak kepake juga **/

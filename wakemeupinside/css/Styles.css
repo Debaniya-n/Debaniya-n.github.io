@@ -31,6 +31,27 @@ body{
     padding: 25px 150px 25px 0px;
 }
 
+.title{
+	color:white;
+	text-align: center;
+	vertical-align: middle;
+	width:425px;
+	margin-left: 250px;
+	display:inline-block;
+	padding: bottom 50px;
+	line-height:75px
+}
+
+/**.title{
+	color:white;
+	text-align: middle;
+	vertical-align: middle;
+	width:425px;
+	display:inline-block;
+	padding: bottom 50px;
+	line-height:75px
+}**/
+
 #container {
     margin-left:160px;
     width: 100px;
@@ -131,7 +152,8 @@ body{
 }
 
 .copyright{
-    color:gray
+	color:gray;
+	height:25px
 }
 
 .socials ul{
@@ -139,7 +161,7 @@ body{
     text-align: center;
     /**background-color: rgba(0,0,0,0.7);**/
     margin: 0px;
-    padding: 25px 0px 25px 0px;
+	padding: 0px;
 }
 
 .socials li{
@@ -153,6 +175,29 @@ body{
 }
 
 .socials li a:hover{
+    color:#8ce967
+}
+
+.mumbojumbo ul{
+    font-family: "UD Digi Kyokasho NK-B";
+    text-align: center;
+    /**background-color: rgba(0,0,0,0.7);**/
+    margin: 0px;
+	padding: 0px 0px 30px 0px;
+	font-size: 50%;
+}
+
+.mumbojumbo li{
+    display: inline;
+    margin: 5px;
+}
+
+.mumbojumbo li a{
+    color: white;
+    text-decoration: none
+}
+
+.mumbojumbo li a:hover{
     color:#8ce967
 }
 

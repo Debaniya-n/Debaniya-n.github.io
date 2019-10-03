@@ -1,9 +1,9 @@
 @font-face {
 	font-family: "UD Digi Kyokasho NK-B";
-	src: url("//css/fonts/UDDigiKyokashoNK-B.eot");
-	src: url("//css/fonts/UDDigiKyokashoNK-B.woff") format("woff"),
-	url("//css/fonts/UDDigiKyokashoNK-B.otf") format("opentype"),
-	url("//css/fonts/UDDigiKyokashoNK-B.svg") format("svg");
+	src: url("/css/fonts/UDDigiKyokashoNK-B.eot");
+	src: url("/css/fonts/UDDigiKyokashoNK-B.woff") format("woff"),
+	url("/css/fonts/UDDigiKyokashoNK-B.otf") format("opentype"),
+	url("/css/fonts/UDDigiKyokashoNK-B.svg") format("svg");
 	}
   
 body{

@@ -47,17 +47,10 @@
                 <div style='background-color: rgba(0, 0, 0, 0.6);text-align: center;padding: 150px 0px 150px;color:white'>               
 
                     <div style="border-color: rgba(0, 0, 0, 0)">       
-                        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
-                        function redirect(){
-                              var target = $('#mainText').val();
-                              var redirectTo = 'http://macchako.moe/Extras/' + target;
-                              window.location.replace(redirectTo);
-                            }
-                        </script>
-                        <form onsubmit="redirect()">
-                                Enter Code <input id="mainText" type="text">
-                                <input type="submit">
-                        </form> <!--aa-->
+                            <form onsubmit="location.href='/' + document.getElementById('myInput').value; return false;">
+                                <input type="text" id="myInput" />
+                                <input type="submit" />
+                              </form>
                     
                     </div>
                 </div>

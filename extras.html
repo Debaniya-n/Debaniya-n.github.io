@@ -40,17 +40,33 @@
                 <div style='text-align: left'>
                     
                     <div class="title">
-                        <h1>Extras: Our Galleries</h1>
+                        <h1>Extras</h1>
                     </div>
                 </div>
 
-                <div style='background-color: rgba(0, 0, 0, 0.6);text-align: center;padding: 150px 0px 150px;color:white'>
-                    <h1>It's sure is lonely around here.</h1>
-                    <h6>Our Galleries are still empty...<br></h6>
-                    <h6>Come back later to see our latest activity snapshots.</h6>
+                <div style='background-color: rgba(0, 0, 0, 0.6);text-align: center;padding: 150px 0px 150px;color:white'>               
+
+                    <div style="border-color: rgba(0, 0, 0, 0)">       
+                        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
+                        function redirect(){
+                            var target = $('#mainText').val();
+                            var redirectTo = 'http://' + target + '.html';
+                            window.location.replace(redirectTo);
+                            }
+                        </script>
+                        <form onsubmit="redirect()" id="sky-form" class="sky-form">
+                            <fieldset>
+                                <div>
+                                    <section class="col col-4">
+                                        <label class="label">Enter Code</label>
+                                        <label class="input"> <i class="icon-append icon-file"></i>
+                                            <input size="50" type="text" name="code" id="code">
+                                        </label>
+                                    </section>
+                                </div>
+                    
+                    </div>
                 </div>
-                
-    </div>
 
     <!--<div class="contents">
         InsertContenthere.jpeg

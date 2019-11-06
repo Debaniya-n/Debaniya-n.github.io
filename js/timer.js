@@ -18,7 +18,7 @@ var x = setInterval(function() {
 
   // Display the result in the element with id="demo"
   document.getElementById("count").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
+  + minutes + "m " + seconds + "s <br><h1>Left Until Orenji Jicoma 2019";
 
   // If the count down is finished, write some text
   if (distance < 0) {

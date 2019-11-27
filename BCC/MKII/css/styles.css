@@ -1,0 +1,18 @@
+/* layout */
+body {
+    margin:0;
+    background-image: url(bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.header {
+    margin:0;
+}
+.parallax-window {
+    margin:0;
+}
+.footer {
+    margin:0;
+} 

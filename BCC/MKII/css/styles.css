@@ -37,7 +37,6 @@ body {
 } 
 
 .contents {
-    padding: 5px;
     margin-top:20px;
     margin-left:10px;
     margin-right:10px;
@@ -46,8 +45,23 @@ body {
     background-color: pink;
     border-radius: 5px;
     display: inline-block;
-    width: 300px;
+    width: 790px;
     height: 400px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.buttons{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    height:400px;
+    position:absolute;
+    font-size:200%;
+    text-align: center;
+    vertical-align: middle;
+    /*line-height: 400px;*/ 
+    width:395px;
+    background-color: rgba(0,0,0,0.5);
 }
 
 a{
